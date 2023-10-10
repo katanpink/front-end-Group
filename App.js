@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import CreateStudent from './components/CreateStudent.jsx'
-import EditStudent from './components/EditStudent.jsx'
-import StudentList from './components/StudentList.jsx'
+import CreateStudent from './components/CreateStudent.js'
+import EditStudent from './components/EditStudent.js'
+import StudentList from './components/StudentList.js'
 import {Routes, Route, Link} from 'react-router-dom'
 import './App.css'
 
